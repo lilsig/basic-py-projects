@@ -10,11 +10,3 @@ new_total = total + (total * tip)
 split_cost = round(new_total / people, 2)
 
 print(f"Each person should pay: ${split_cost}")
-
-
-
-
-
-
-
-
